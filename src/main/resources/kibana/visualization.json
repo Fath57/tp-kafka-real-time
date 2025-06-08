@@ -1,0 +1,8 @@
+{
+  "title": "Exchange Rates Dashboard",
+  "type": "dashboard",
+  "panelsJSON": "[{\"type\":\"visualization\",\"id\":\"exchange-rates-trend\",\"panelIndex\":1,\"size_x\":6,\"size_y\":4,\"col\":1,\"row\":1}]",
+  "optionsJSON": "{\"darkTheme\":false}",
+  "uiStateJSON": "{\"P-1\":{\"vis\":{\"title\":\"Exchange Rates Trend\",\"type\":\"line\",\"params\":{\"shareYAxis\":true,\"addTooltip\":true,\"addLegend\":true,\"scale\":\"linear\",\"mode\":\"stacked\",\"defaultYExtents\":false,\"setYExtents\":false,\"colorSchema\":\"dark2\",\"addTimeMarker\":false,\"times\":[],\"addBaseline\":false,\"lines\":{\"show\":true,\"lineWidth\":1,\"fill\":0.5},\"points\":{\"show\":true,\"radius\":1},\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"title\":\"Rate\",\"type\":\"value\",\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true},\"position\":\"left\"}]}}}}",
+  "version": 1
+}
